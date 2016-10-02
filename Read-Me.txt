@@ -1,0 +1,77 @@
+English/Français
+
+[English]
+----------
+
+A little history
+================
+
+CAB G.Y.30 "Supercab"
+=====================
+
+Manufacturer                  :
+Type                          :
+Year                          :
+Powerplant                    :
+Wingspan                      :
+Length                        :
+Height                        :
+weight max                    :
+Cruise speed                  :
+Range                         :
+Crew                          :
+
+Some useful keys:
+=================
+
+d : canopy
+
+Thanks
+======
+
+===============
+BARANGER Emmanuel
+October, 02, 2016
+
+http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
+embaranger@free.fr
+
+
+[Français]
+----------
+
+Un peu d'histoire
+=================
+
+CAB G.Y.30 "Supercab"
+=====================
+
+Constructeur                  :
+Type                          :
+Année                         :
+Moteur                        :
+Envergure                     :
+Longueur                      :
+Hauteur                       :
+Poids max au décollage        :
+Vitesse estimée de croisière  :
+Autonomie estimée             :
+Equipage                      :
+
+
+Quelques touches utiles :
+=========================
+
+d : cockpit
+
+Remerciements
+=============
+
+===============
+BARANGER Emmanuel
+02 Octobre 2016
+
+http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
+embaranger@free.fr
